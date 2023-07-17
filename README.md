@@ -30,9 +30,9 @@ Specialties about me:
 #### Connect with me:
 
 <p align="left">
-  <a href="https://linkedin.com/in/ahsan-khan" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="Noman Hassan" height="30" width="40" /></a>
-  <a href="[https://stackoverflow.com/users/14236309/noman-hassan]" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="11434106" height="30" width="40" /></a>
-  <a href="https://www.facebook.com/noman.hassan.311493?mibextid=ZbWKwL" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="ahsan khan" height="30" width="40" /></a>
+  <a href="https://www.linkedin.com/in/nauman-hassan-8aa40519b" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="Nauman Hassan" height="30" width="40" /></a>
+  <a href="https://stackoverflow.com/users/14236309/noman-hassan" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="Noman Hassan" height="30" width="40" /></a>
+  <a href="https://www.facebook.com/noman.hassan.311493" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="Noman Hassan" height="30" width="40" /></a>
 </p>
 
 #### Languages and Tools:
