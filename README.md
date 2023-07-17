@@ -19,20 +19,19 @@ Specialties about me:
 
 🔭 I’m currently working on [Kaufes](http://kaufes.ch/)
 
-👨‍💻 Some of my projects are available at [https://github.com/ahsan-khan1999](https://github.com/ahsan-khan1999)
+👨‍💻 Some of my projects are available at [https://github.com/ahsan-khan1999](https://github.com/nomi091)
 
 💬 Ask me about **Flutter, Dart, Firebase, HTML, CSS, Bootstrap,Ios,Android,Git**,Aws,Developement and Deployment
 
 📫 How to reach me: ahsan.ak943@gmail.com || +923171017988
 
-📄 Know about my experiences [https://www.linkedin.com/in/ahsan-khan-367619159/](https://www.linkedin.com/in/ahsan-khan-367619159/)
+📄 Know about my experiences [https://www.linkedin.com/in/ahsan-khan-367619159/](https://www.linkedin.com/in/nauman-hassan-8aa40519b)
 
 #### Connect with me:
 
 <p align="left">
-  <a href="https://dev.to/ahsan-khan1999" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/devto.svg" alt="nomi091" height="30" width="40" /></a>
-  <a href="https://linkedin.com/in/ahsan-khan" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="ahsan khan" height="30" width="40" /></a>
-  <a href="https://stackoverflow.com/users/11434106" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="11434106" height="30" width="40" /></a>
+  <a href="https://linkedin.com/in/ahsan-khan" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="Noman Hassan" height="30" width="40" /></a>
+  <a href="[https://stackoverflow.com/users/11434106](https://stackoverflow.com/users/14236309/noman-hassan)" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="11434106" height="30" width="40" /></a>
   <a href="https://fb.com/ahsan khan" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="ahsan khan" height="30" width="40" /></a>
 </p>
 
