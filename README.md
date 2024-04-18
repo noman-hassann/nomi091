@@ -23,7 +23,7 @@ Specialties about me:
 
 💬 Ask me about **Flutter, Dart, Firebase, HTML, CSS, Bootstrap,Ios,Android,Git**,Aws,Developement and Deployment
 
-📫 How to reach me: nomi1awan2@gmail.com|| +923472131091
+📫 How to reach me: hassannoman6803@gmail.com|| +923472131091
 
 📄 Know about my experiences [https://www.linkedin.com/in/nauman-hassan-8aa40519b]
 
@@ -45,9 +45,9 @@ Specialties about me:
 </p>
 
 <p align="left">
-  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=nomi091&show_icons=true&locale=en&layout=compact" alt="ahsan-khan1999" />
+  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=noman-hassann&show_icons=true&locale=en&layout=compact" alt="noman-hassann" />
 </p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=ahsan-khan1999&show_icons=true&locale=en" alt="ahsan-khan1999" /></p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=noman-hassann&show_icons=true&locale=en" alt="ahsan-khan1999" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=ahsan-khan1999&" alt="Noman-Hassan 1999" /></p>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=noman-hassann&" alt="noman-hassann" /></p>
